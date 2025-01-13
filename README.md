@@ -11,7 +11,7 @@ This will save the user some money by not going to a graphic designer.
 * Creation of svg file with logo
 
 ## Installation
-For installtion, node and inquirer will need to be downloaded
+To install: node and inquirer will need to be downloaded
 
 ## Links
 [Home](https://github.com/san1718/mc10-SVG_Logo_Maker)
