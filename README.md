@@ -18,7 +18,7 @@ This will save the user some money by not going to a graphic designer.
 []()
 
 ## Screenshots
-<img width="1000" alt="Selection" src="">
+<img width="1000" alt="Selection" src="https://github.com/san1718/mc10-SVG_Logo_Maker/blob/main/lib/images/Selection.png">
 <img width="1000" alt="Result" src="">
 
 ## Credits
