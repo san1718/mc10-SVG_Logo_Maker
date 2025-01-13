@@ -1,6 +1,5 @@
 // Setting variables
 const inquirer = require("inquirer");
-const { choices } = require("yargs");
 var fs = require("fs");
 const { Circle, Triangle, Square } = require("./lib/shapes");
 const svg = require("./lib/svg");
@@ -18,7 +17,7 @@ inquirer.prompt([
         message: "Pick a color for the text",
     },
     {
-        name: "Shape",
+        name: "shape",
         type: "list",
         message: "Pick a shape",
         choices: ["Circle", "Triangle", "Square"],
@@ -39,13 +38,13 @@ inquirer.prompt([
 function makingLogo(answer) {
 // putting if statement for answer given
     let shape = null;
-    if (answer.Shape === "Circle") {
+    if (answer.shape === "Circle") {
         shape = new Circle(answer.shapeColor);
     }
-    else if (answer.Shape === "Triangle") {
+    else if (answer.shape === "Triangle") {
         shape = new Triangle(answer.shapeColor);
     }
-    else if (answer.Shape === "Square") {
+    else if (answer.shape === "Square") {
         shape = new Square(answer.shapeColor);
     }
     const svg = new Svg(shape, answer.logoText, answer.textColor);
