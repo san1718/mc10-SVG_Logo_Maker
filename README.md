@@ -14,12 +14,12 @@ This will save the user some money by not going to a graphic designer.
  1. Download node and inquirer
  2. Run node index.js
  3. Follow prompt to create logo
- 
+
 
 ## Links
 [Home](https://github.com/san1718/mc10-SVG_Logo_Maker)
+<!-- Video link -->
 []()
-
 ## Screenshots
 <img width="1000" alt="Selection" src="https://github.com/san1718/mc10-SVG_Logo_Maker/blob/main/lib/images/Selection.png">
 <img width="1000" alt="Result" src="">

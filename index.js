@@ -51,6 +51,6 @@ function makingLogo(answer) {
     // writing file
     fs.writeFile("logo.svg", svgCreate.render(), function (err) {
         if (err) throw err;
-        console.log("Saved");
+        console.log("Logo Created");
     });
 }
