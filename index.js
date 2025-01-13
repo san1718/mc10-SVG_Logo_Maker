@@ -1,4 +1,4 @@
-// Importing libraries and setting variables
+// Setting variables
 const inquirer = require("inquirer");
 const { choices } = require("yargs");
 var fs = require("fs");
