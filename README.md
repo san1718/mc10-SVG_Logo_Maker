@@ -44,13 +44,13 @@ To test, run the following using jest:
 ## Links
 [Home](https://github.com/san1718/mc10-SVG_Logo_Maker)
 <!-- Video link -->
-[Demo](https://github.com/san1718/mc10-SVG_Logo_Maker/blob/main/lib/images/Demo.gif)
+[Demo](https://github.com/san1718/mc10-SVG_Logo_Maker/blob/main/images/Demo.gif)
 
 ## Screenshots
-<img width="1000" alt="Demo" src="https://github.com/san1718/mc10-SVG_Logo_Maker/blob/main/lib/images/Demo.gif">
-<img width="1000" alt="Test" src="https://github.com/san1718/mc10-SVG_Logo_Maker/blob/main/lib/images/Test.gif">
-<img width="1000" alt="Selection" src="https://github.com/san1718/mc10-SVG_Logo_Maker/blob/main/lib/images/Selection.png">
-<img width="1000" alt="Result" src="https://github.com/san1718/mc10-SVG_Logo_Maker/blob/main/lib/images/Result.png">
+<img width="1000" alt="Demo" src="https://github.com/san1718/mc10-SVG_Logo_Maker/blob/main/images/Demo.gif">
+<img width="1000" alt="Test" src="https://github.com/san1718/mc10-SVG_Logo_Maker/blob/main/images/Test.gif">
+<img width="1000" alt="Selection" src="https://github.com/san1718/mc10-SVG_Logo_Maker/blob/main/images/Selection.png">
+<img width="1000" alt="Result" src="https://github.com/san1718/mc10-SVG_Logo_Maker/blob/main/images/Result.png">
 
 ## Credits
 Office hours
