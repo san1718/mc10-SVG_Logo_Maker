@@ -1,56 +1,80 @@
-# SVG Logo Maker
+# 🎨 SVG Logo Maker  
 
-## Table of Contents
-* [Overview](#overview)
-* [Features](#features)
-* [Installation / Usage](#installation--usage)
-* [Tests](#tests)
-* [Technologies Used](#technologies-used)
-* [Links](#links)
-* [Screenshots](#screenshots)
-* [Credits](#credits)
+## Table of Contents  
+- [Overview](#overview)  
+- [Features](#features)  
+- [Installation & Usage](#installation--usage)  
+- [Tests](#tests)  
+- [Technologies Used](#technologies-used)  
+- [Links](#links)  
+- [Screenshots](#screenshots)  
+- [Credits](#credits)  
 
-## Overview
-The user will be able to create a logo with the options given.
-This will save the user some money by not going to a graphic designer.
+## Overview  
+Creating a logo doesn't have to be expensive or complicated! **SVG Logo Maker** allows users to generate **custom SVG logos** directly from the command line by selecting text, colors, and shapes. The generated **logo.svg** file can be used in projects without requiring graphic design skills.  
 
-## Features
-* Creates a logo with up to 3 characters
-* Color selection for text
-* Shape and shape color selection
-* Creation of svg file with logo
+## Features  
+✅ Generate a **custom SVG logo** 🖼️  
+✅ Enter **up to 3 characters** for the logo text ✍️  
+✅ Select **text color** (keyword or hex) 🎨  
+✅ Choose a **shape** (Circle, Triangle, Square) 🔷  
+✅ Select **shape color** (keyword or hex) 🌈  
+✅ Saves the final **SVG file** for easy use ✅  
 
-## Installation / Usage
-1. Clone Repository (ssh):
-    * git clone git@github.com:san1718/mc10-SVG_Logo_Maker.git
-2. Install Dependencies:
-    * npm init -y
-    * npm install
-    * npm install inquirer
-    * npm install --save-dev jest
-3. Run the Application:
-    * node index.js
-4. Follow the prompts
+## Installation & Usage  
+### 1️⃣ Clone the Repository  
+```sh
+git clone git@github.com:san1718/mc10-SVG_Logo_Maker.git
+cd mc10-SVG_Logo_Maker
+```
 
-## Tests
-To test, run the following using jest:
-* npm run test
+### 2️⃣ Install Dependencies  
+```sh
+npm init -y && npm install && npm install inquirer && npm install --save-dev jest
+```
 
-## Technologies Used
-* Node.js
-* Inquirer.js
-* Jest
+### 3️⃣ Run the Application  
+```sh
+node index.js
+```
 
-## Links
-[Home](https://github.com/san1718/mc10-SVG_Logo_Maker)
-<!-- Video link -->
-[Demo](https://github.com/san1718/mc10-SVG_Logo_Maker/blob/main/images/Demo.gif)
+### 4️⃣ Follow the Prompts  
+Answer the interactive prompts to customize your logo.  
 
-## Screenshots
-<img width="1000" alt="Demo" src="https://github.com/san1718/mc10-SVG_Logo_Maker/blob/main/images/Demo.gif">
-<img width="1000" alt="Test" src="https://github.com/san1718/mc10-SVG_Logo_Maker/blob/main/images/Test.gif">
-<img width="1000" alt="Selection" src="https://github.com/san1718/mc10-SVG_Logo_Maker/blob/main/images/Selection.png">
-<img width="1000" alt="Result" src="https://github.com/san1718/mc10-SVG_Logo_Maker/blob/main/images/Result.png">
+### 5️⃣ Generated Logo  
+Your **logo.svg** file will be created in the project directory, ready to use! 🎉  
 
-## Credits
-Office hours
+## Tests  
+To run tests, use **Jest**:  
+```sh
+npm run test
+```
+
+## Technologies Used  
+- **Node.js** (JavaScript runtime environment)  
+- **Inquirer.js** (Command-line interaction)  
+- **Jest** (Testing framework)  
+
+## Links  
+🔗 [GitHub Repository](https://github.com/san1718/mc10-SVG_Logo_Maker)  
+📽️ [Demo GIF](https://github.com/san1718/mc10-SVG_Logo_Maker/blob/main/images/Demo.gif)  
+
+## Screenshots  
+
+📌 **Demo - Logo Creation Process**  
+<img width="1000" alt="Demo" src="https://github.com/san1718/mc10-SVG_Logo_Maker/blob/main/images/Demo.gif">  
+
+📌 **Running Tests with Jest**  
+<img width="1000" alt="Test" src="https://github.com/san1718/mc10-SVG_Logo_Maker/blob/main/images/Test.gif">  
+
+📌 **Selection Menu Example**  
+<img width="1000" alt="Selection" src="https://github.com/san1718/mc10-SVG_Logo_Maker/blob/main/images/Selection.png">  
+
+📌 **Generated Logo Output**  
+<img width="1000" alt="Result" src="https://github.com/san1718/mc10-SVG_Logo_Maker/blob/main/images/Result.png">  
+
+## Credits  
+This project was completed with the help of **Office Hours** support.  
+
+---
+This **SVG Logo Maker** is a quick and easy solution for generating simple logos without the need for graphic design skills! 🚀  
