@@ -22,6 +22,7 @@ Creating a logo doesn't have to be expensive or complicated! **SVG Logo Maker** 
 ✅ Saves the final **SVG file** for easy use ✅  
 
 ## Installation & Usage  
+For local: 
 ### 1️⃣ Clone the Repository  
 ```sh
 git clone git@github.com:san1718/mc10-SVG_Logo_Maker.git
